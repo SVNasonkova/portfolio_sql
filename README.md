@@ -2,8 +2,6 @@
 # 📊 Анализ аптечных данных: задачи, SQL-решения и бизнес-выводы
 
 🔗 **Презентация проекта:** [Pharmacy Data Analysis (SQL)](https://drive.google.com/file/d/1CVYZErVGxVBimb481LpBwj5WvEKwBW_0/view?usp=sharing)  
-💻 **Репозиторий на GitHub:** [github.com/SvetlNas/pharmacy-sql-analysis](https://github.com/SvetlNas/pharmacy-sql-analysis)
-
 ---
 
 | № | Задача | Используемые SQL-функции | Бизнес-вывод | Ссылка на запрос |
